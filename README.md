@@ -1,4 +1,4 @@
- ## <h1> style="text-align:center;">Hey me chamo Edson Vieira, prazer em lhe conhecer 🐱‍💻! </h1> ##
+<h1 Hey me chamo Edson Vieira, prazer em lhe conhecer 🐱‍💻! </h1>
  
 <div> 
 
