@@ -1,12 +1,12 @@
 
-<h2 align="left">Hey 👋! Meu nome é Edson Vieira, prazer em lhe conhecer.</h2>
+<h1 align="left">Hey 👋! Meu nome é Edson Vieira, prazer em lhe conhecer.</h1>
 
 ###
 
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/pt-BR/view/naruto-kakashi-mangas-anime-gif-18009865)"  />
+Atualmente estou estudando as seguintes tecnologias :
 
 ###
 
@@ -20,13 +20,12 @@
 </div>
 
 ###
-
+<h1> Aqui estão alguns meios para entrar em contato comigo : </h1>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <a href="https://www.instagram.com/edstwg/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="instagram logo"/></a> <br>
 </div>
+<hr>
+
 
 ###
 
