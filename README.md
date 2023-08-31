@@ -18,13 +18,15 @@ Atualmente estou estudando as seguintes tecnologias :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
 </div>
-
-###
-<h1> Aqui estão alguns meios para entrar em contato comigo : </h1>
-<div align="left">
-    <a href="https://www.instagram.com/edstwg/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="instagram logo"/></a> <br>
-</div>
 <hr>
+
+<div align="left">
+    <h1> Aqui estão alguns meios para entrar em contato comigo : </h1>
+    <a href="https://www.instagram.com/edstwg/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="instagram logo"/></a> <br>
+    <a href="https://www.linkedin.com/in/edson-vieira-042200219/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="35" alt="linkedin logo"/></a> <br>
+  <hr>
+</div>
+
 
 
 ###
@@ -47,5 +49,9 @@ Atualmente estou estudando as seguintes tecnologias :
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<div style="display: inline-block;">
+  <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+<div>
 
 ###
